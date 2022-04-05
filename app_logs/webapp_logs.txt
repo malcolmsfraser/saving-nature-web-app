@@ -1,0 +1,955 @@
+{"message": " * Running on http://localhost:8080/ (Press CTRL+C to quit)"}
+{"message": " * Restarting with stat"}
+{"message": " * Debugger is active!"}
+{"message": " * Debugger PIN: 130-615-565"}
+{"message": " * Detected change in '/home/ec2-user/environment/webapp/app.py', reloading"}
+{"message": " * Restarting with stat"}
+{"message": " * Debugger is active!"}
+{"message": " * Debugger PIN: 130-615-565"}
+{"message": " * Detected change in '/home/ec2-user/environment/webapp/app.py', reloading"}
+{"message": " * Restarting with stat"}
+{"message": " * Debugger is active!"}
+{"message": " * Debugger PIN: 130-615-565"}
+{"message": " * Detected change in '/home/ec2-user/environment/webapp/app.py', reloading"}
+{"message": " * Restarting with stat"}
+{"message": "Logging info"}
+{"message": "Logging warning"}
+{"message": " * Debugger is active!"}
+{"message": " * Debugger PIN: 130-615-565"}
+{"message": " * Detected change in '/home/ec2-user/environment/webapp/app.py', reloading"}
+{"message": " * Restarting with stat"}
+{"message": "Logging info"}
+{"message": "Logging debug"}
+{"message": "Logging warning"}
+{"message": " * Debugger is active!"}
+{"message": " * Debugger PIN: 130-615-565"}
+{"message": " * Detected change in '/home/ec2-user/environment/webapp/app.py', reloading"}
+{"message": " * Restarting with stat"}
+{"message": "Logging info"}
+{"message": "Logging warning"}
+{"message": " * Debugger is active!"}
+{"message": " * Debugger PIN: 130-615-565"}
+{"message": " * Detected change in '/home/ec2-user/environment/webapp/app.py', reloading"}
+{"message": " * Restarting with stat"}
+{"message": "Logging info"}
+{"message": "Logging warning"}
+{"message": " * Debugger is active!"}
+{"message": " * Debugger PIN: 130-615-565"}
+{"message": " * Detected change in '/home/ec2-user/environment/webapp/app.py', reloading"}
+{"message": " * Restarting with stat"}
+{"message": "Logging info"}
+{"message": "Logging warning"}
+{"message": " * Debugger is active!"}
+{"message": " * Debugger PIN: 130-615-565"}
+{"message": " * Detected change in '/home/ec2-user/environment/webapp/utils.py', reloading"}
+{"message": " * Restarting with stat"}
+{"message": "Logging info"}
+{"message": "Logging warning"}
+{"message": " * Debugger is active!"}
+{"message": " * Debugger PIN: 130-615-565"}
+{"message": " * Detected change in '/home/ec2-user/environment/webapp/app.py', reloading"}
+{"message": " * Restarting with stat"}
+{"message": "Logging info"}
+{"message": "Logging warning"}
+{"message": " * Debugger is active!"}
+{"message": " * Debugger PIN: 130-615-565"}
+{"message": " * Detected change in '/home/ec2-user/environment/webapp/app.py', reloading"}
+{"message": " * Restarting with stat"}
+{"message": "Logging info"}
+{"message": "Logging warning"}
+{"message": " * Debugger is active!"}
+{"message": " * Debugger PIN: 130-615-565"}
+{"message": "127.0.0.1 - - [29/Mar/2022 16:20:16] \"\u001b[36mGET /static/assets/css/main.css HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [29/Mar/2022 16:20:16] \"\u001b[36mGET /static/images/SAVING-NATURE-LOGO-WITH-TAG-LINE-e1565707209117.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [29/Mar/2022 16:20:16] \"\u001b[36mGET /static/images/Sumatra-Crested-Fireback-Pheasant-Lophura-ignita-e1566603146361.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [29/Mar/2022 16:20:16] \"\u001b[36mGET /static/images/SumatraTiger.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [29/Mar/2022 16:20:16] \"\u001b[36mGET /static/assets/js/main.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [29/Mar/2022 16:20:16] \"\u001b[36mGET /static/assets/js/jquery.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [29/Mar/2022 16:20:16] \"\u001b[36mGET /static/assets/js/browser.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [29/Mar/2022 16:20:16] \"\u001b[36mGET /static/assets/js/breakpoints.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [29/Mar/2022 16:20:16] \"\u001b[36mGET /static/assets/js/util.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [29/Mar/2022 16:20:16] \"\u001b[36mGET /static/assets/webfonts/fa-regular-400.woff2 HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [29/Mar/2022 16:20:16] \"\u001b[36mGET /static/assets/css/fontawesome-all.min.css HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [29/Mar/2022 16:20:16] \"\u001b[36mGET /static/images/overlay.png HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [29/Mar/2022 16:20:16] \"\u001b[36mGET /static/images/elephants-background.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [29/Mar/2022 16:20:16] \"\u001b[36mGET /static/assets/webfonts/fa-solid-900.woff2 HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [29/Mar/2022 16:20:17] \"GET / HTTP/1.1\" 200 -"}
+{"message": "127.0.0.1 - - [29/Mar/2022 16:20:17] \"\u001b[36mGET /static/assets/css/main.css HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [29/Mar/2022 16:20:17] \"\u001b[36mGET /static/images/SAVING-NATURE-LOGO-WITH-TAG-LINE-e1565707209117.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [29/Mar/2022 16:20:17] \"\u001b[36mGET /static/images/SumatraTiger.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [29/Mar/2022 16:20:17] \"\u001b[36mGET /static/images/Sumatra-Crested-Fireback-Pheasant-Lophura-ignita-e1566603146361.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [29/Mar/2022 16:20:17] \"\u001b[36mGET /static/assets/js/jquery.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [29/Mar/2022 16:20:17] \"\u001b[36mGET /static/assets/js/browser.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [29/Mar/2022 16:20:17] \"\u001b[36mGET /static/assets/js/breakpoints.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [29/Mar/2022 16:20:17] \"\u001b[36mGET /static/assets/js/util.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [29/Mar/2022 16:20:17] \"\u001b[36mGET /static/assets/js/main.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [29/Mar/2022 16:20:17] \"\u001b[36mGET /static/assets/css/fontawesome-all.min.css HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [29/Mar/2022 16:20:17] \"\u001b[36mGET /static/images/overlay.png HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [29/Mar/2022 16:20:17] \"\u001b[36mGET /static/images/elephants-background.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [29/Mar/2022 16:20:17] \"GET /static/assets/webfonts/fa-brands-400.woff2 HTTP/1.1\" 200 -"}
+{"message": "127.0.0.1 - - [29/Mar/2022 16:20:17] \"\u001b[36mGET /static/assets/webfonts/fa-regular-400.woff2 HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [29/Mar/2022 16:20:17] \"\u001b[36mGET /static/assets/webfonts/fa-solid-900.woff2 HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "Found credentials in shared credentials file: ~/.aws/credentials"}
+{"message": "Metadata write with response [{'ResponseMetadata': {'RequestId': 'IJ3HDR8T9OHMP2LQ661IA37I07VV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Tue, 29 Mar 2022 16:21:35 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': 'IJ3HDR8T9OHMP2LQ661IA37I07VV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': '3AFTUJDGS240NE6M1SLOBA8AF7VV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Tue, 29 Mar 2022 16:21:35 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': '3AFTUJDGS240NE6M1SLOBA8AF7VV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}]"}
+{"message": "10230048.mp4 saved locally"}
+{"message": "10210173.mp4 saved locally"}
+{"message": "Attempting to send ./uploads/10230048.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/10210173.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Uploading ./uploads/10230048.mp4 to dropbox"}
+{"message": "Request to files/upload_session/start"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/finish"}
+{"message": "./uploads/10230048.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/10210173.mp4 to dropbox"}
+{"message": "Request to files/upload_session/start"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/finish"}
+{"message": "./uploads/10210173.mp4 deleted from local server"}
+{"message": "127.0.0.1 - - [29/Mar/2022 16:21:45] \"POST / HTTP/1.1\" 200 -"}
+{"message": "127.0.0.1 - - [29/Mar/2022 16:21:45] \"\u001b[36mGET /static/assets/js/browser.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [29/Mar/2022 16:21:45] \"\u001b[36mGET /static/images/Sumatra-Crested-Fireback-Pheasant-Lophura-ignita-e1566603146361.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [29/Mar/2022 16:21:45] \"\u001b[36mGET /static/images/SAVING-NATURE-LOGO-WITH-TAG-LINE-e1565707209117.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [29/Mar/2022 16:21:45] \"\u001b[36mGET /static/assets/css/main.css HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [29/Mar/2022 16:21:45] \"\u001b[36mGET /static/images/SumatraTiger.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [29/Mar/2022 16:21:45] \"\u001b[36mGET /static/assets/js/jquery.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [29/Mar/2022 16:21:45] \"\u001b[36mGET /static/assets/js/util.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [29/Mar/2022 16:21:45] \"\u001b[36mGET /static/assets/js/main.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [29/Mar/2022 16:21:45] \"\u001b[36mGET /static/assets/js/breakpoints.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [29/Mar/2022 16:21:45] \"\u001b[36mGET /static/assets/css/fontawesome-all.min.css HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [29/Mar/2022 16:21:45] \"\u001b[36mGET /static/images/overlay.png HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [29/Mar/2022 16:21:45] \"\u001b[36mGET /static/images/elephants-background.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [29/Mar/2022 16:21:45] \"\u001b[36mGET /static/assets/webfonts/fa-regular-400.woff2 HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [29/Mar/2022 16:21:45] \"\u001b[36mGET /static/assets/webfonts/fa-solid-900.woff2 HTTP/1.1\u001b[0m\" 304 -"}
+{"message": " * Detected change in '/home/ec2-user/environment/webapp/utils.py', reloading"}
+{"message": " * Restarting with stat"}
+{"message": "Logging info"}
+{"message": "Logging warning"}
+{"message": " * Debugger is active!"}
+{"message": " * Debugger PIN: 130-615-565"}
+{"message": " * Detected change in '/home/ec2-user/environment/webapp/utils.py', reloading"}
+{"message": " * Restarting with stat"}
+{"message": "Logging info"}
+{"message": "Logging warning"}
+{"message": " * Debugger is active!"}
+{"message": " * Debugger PIN: 130-615-565"}
+{"message": "Logging info"}
+{"message": "Logging warning"}
+{"message": " * Running on http://localhost:8080/ (Press CTRL+C to quit)"}
+{"message": " * Restarting with stat"}
+{"message": "Logging info"}
+{"message": "Logging warning"}
+{"message": " * Debugger is active!"}
+{"message": " * Debugger PIN: 130-615-565"}
+{"message": "127.0.0.1 - - [30/Mar/2022 16:41:03] \"GET / HTTP/1.1\" 200 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 16:41:04] \"\u001b[36mGET /static/assets/js/browser.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 16:41:04] \"\u001b[36mGET /static/images/SAVING-NATURE-LOGO-WITH-TAG-LINE-e1565707209117.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 16:41:04] \"\u001b[36mGET /static/assets/css/main.css HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 16:41:04] \"\u001b[36mGET /static/images/Sumatra-Crested-Fireback-Pheasant-Lophura-ignita-e1566603146361.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 16:41:04] \"\u001b[36mGET /static/assets/js/breakpoints.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 16:41:04] \"\u001b[36mGET /static/assets/js/util.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 16:41:04] \"\u001b[36mGET /static/assets/js/main.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 16:41:04] \"\u001b[36mGET /static/images/SumatraTiger.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 16:41:04] \"\u001b[36mGET /static/assets/js/jquery.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 16:41:04] \"\u001b[36mGET /static/assets/css/fontawesome-all.min.css HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 16:41:04] \"\u001b[36mGET /static/images/overlay.png HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 16:41:04] \"\u001b[36mGET /static/images/elephants-background.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 16:41:04] \"\u001b[36mGET /static/assets/webfonts/fa-regular-400.woff2 HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 16:41:04] \"\u001b[36mGET /static/assets/webfonts/fa-solid-900.woff2 HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "Found credentials in shared credentials file: ~/.aws/credentials"}
+{"message": "Metadata write with response [{'ResponseMetadata': {'RequestId': 'K39TL3I42QAQ5B8028BC3QVCQVVV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Wed, 30 Mar 2022 16:57:50 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': 'K39TL3I42QAQ5B8028BC3QVCQVVV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': '76E1ET53LU3SPQRCRACNV6QDTBVV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Wed, 30 Mar 2022 16:57:50 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': '76E1ET53LU3SPQRCRACNV6QDTBVV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': 'SGLLD3HAFA2SMFLO9FTJ9K2R1FVV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Wed, 30 Mar 2022 16:57:50 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': 'SGLLD3HAFA2SMFLO9FTJ9K2R1FVV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': 'TK8GDO3V7E10C3NEADILPVRT2FVV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Wed, 30 Mar 2022 16:57:50 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': 'TK8GDO3V7E10C3NEADILPVRT2FVV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': 'IK833JC39MNKJ7QR5A0TJ8V9DNVV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Wed, 30 Mar 2022 16:57:50 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': 'IK833JC39MNKJ7QR5A0TJ8V9DNVV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': '6996LJSEU3J3JKCS6OGABAPIUBVV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Wed, 30 Mar 2022 16:57:50 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': '6996LJSEU3J3JKCS6OGABAPIUBVV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': '2TEE46P3UGG7N5J3IECDIKL8DNVV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Wed, 30 Mar 2022 16:57:50 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': '2TEE46P3UGG7N5J3IECDIKL8DNVV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': 'UF30RUQCLR0C9298PLF3M4HKN3VV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Wed, 30 Mar 2022 16:57:50 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': 'UF30RUQCLR0C9298PLF3M4HKN3VV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': 'A62IDLUDUUPDKDKFVDR029M647VV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Wed, 30 Mar 2022 16:57:50 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': 'A62IDLUDUUPDKDKFVDR029M647VV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': 'NCBCBKJMPFVJ0QN4JKDFET697BVV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Wed, 30 Mar 2022 16:57:50 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': 'NCBCBKJMPFVJ0QN4JKDFET697BVV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': 'NBQ7BLHQLBQGH29UIKEBU77GCRVV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Wed, 30 Mar 2022 16:57:50 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': 'NBQ7BLHQLBQGH29UIKEBU77GCRVV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': '2SSAE5K99NT1ANEVP5VPB6TBT3VV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Wed, 30 Mar 2022 16:57:50 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': '2SSAE5K99NT1ANEVP5VPB6TBT3VV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': 'G50F68S3V4LFVBACLK7TLFK6DJVV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Wed, 30 Mar 2022 16:57:50 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': 'G50F68S3V4LFVBACLK7TLFK6DJVV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': 'H21OEJ9T3Q9U119JOFA8L91E4VVV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Wed, 30 Mar 2022 16:57:50 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': 'H21OEJ9T3Q9U119JOFA8L91E4VVV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}]"}
+{"message": "08170111_Babi.mp4 saved locally"}
+{"message": "08170060_Beruk.mp4 saved locally"}
+{"message": "07230025_Tikus.mp4 saved locally"}
+{"message": "09100138_Tikus.mp4 saved locally"}
+{"message": "12260012.mp4 saved locally"}
+{"message": "05040007.mp4 saved locally"}
+{"message": "06060492.mp4 saved locally"}
+{"message": "02280202.mp4 saved locally"}
+{"message": "01050042.mp4 saved locally"}
+{"message": "01130063.mp4 saved locally"}
+{"message": "04130437.mp4 saved locally"}
+{"message": "07030011.mp4 saved locally"}
+{"message": "05070052 Lop_ino.mp4 saved locally"}
+{"message": "08160063_Sepidan.mp4 saved locally"}
+{"message": "Attempting to send ./uploads/08170111_Babi.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/08170060_Beruk.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/07230025_Tikus.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/09100138_Tikus.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/12260012.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/05040007.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/06060492.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/02280202.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/01050042.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/01130063.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/04130437.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/07030011.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/05070052 Lop_ino.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/08160063_Sepidan.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Uploading ./uploads/08170111_Babi.mp4 to dropbox"}
+{"message": "Request to files/upload"}
+{"message": "./uploads/08170111_Babi.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/08170060_Beruk.mp4 to dropbox"}
+{"message": "Request to files/upload_session/start"}
+{"message": "Request to files/upload_session/finish"}
+{"message": "./uploads/08170060_Beruk.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/07230025_Tikus.mp4 to dropbox"}
+{"message": "Request to files/upload"}
+{"message": "./uploads/07230025_Tikus.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/09100138_Tikus.mp4 to dropbox"}
+{"message": "Request to files/upload"}
+{"message": "./uploads/09100138_Tikus.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/12260012.mp4 to dropbox"}
+{"message": "Request to files/upload_session/start"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/finish"}
+{"message": "./uploads/12260012.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/05040007.mp4 to dropbox"}
+{"message": "Request to files/upload_session/start"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/finish"}
+{"message": "./uploads/05040007.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/06060492.mp4 to dropbox"}
+{"message": "Request to files/upload_session/start"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/finish"}
+{"message": "./uploads/06060492.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/02280202.mp4 to dropbox"}
+{"message": "Request to files/upload_session/start"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/finish"}
+{"message": "./uploads/02280202.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/01050042.mp4 to dropbox"}
+{"message": "Request to files/upload_session/start"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/finish"}
+{"message": "./uploads/01050042.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/01130063.mp4 to dropbox"}
+{"message": "Request to files/upload_session/start"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/finish"}
+{"message": "./uploads/01130063.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/04130437.mp4 to dropbox"}
+{"message": "Request to files/upload_session/start"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/finish"}
+{"message": "./uploads/04130437.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/07030011.mp4 to dropbox"}
+{"message": "Request to files/upload_session/start"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/finish"}
+{"message": "./uploads/07030011.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/05070052 Lop_ino.mp4 to dropbox"}
+{"message": "Request to files/upload"}
+{"message": "./uploads/05070052 Lop_ino.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/08160063_Sepidan.mp4 to dropbox"}
+{"message": "Request to files/upload_session/start"}
+{"message": "Request to files/upload_session/finish"}
+{"message": "./uploads/08160063_Sepidan.mp4 deleted from local server"}
+{"message": "127.0.0.1 - - [30/Mar/2022 16:58:43] \"POST / HTTP/1.1\" 200 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 17:04:41] \"GET / HTTP/1.1\" 200 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 17:04:41] \"\u001b[36mGET /static/assets/css/main.css HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 17:04:41] \"\u001b[36mGET /static/images/SAVING-NATURE-LOGO-WITH-TAG-LINE-e1565707209117.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 17:04:41] \"\u001b[36mGET /static/assets/js/jquery.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 17:04:41] \"\u001b[36mGET /static/assets/js/browser.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 17:04:41] \"\u001b[36mGET /static/images/Sumatra-Crested-Fireback-Pheasant-Lophura-ignita-e1566603146361.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 17:04:41] \"\u001b[36mGET /static/assets/js/breakpoints.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 17:04:41] \"\u001b[36mGET /static/images/SumatraTiger.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 17:04:41] \"\u001b[36mGET /static/assets/js/util.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 17:04:41] \"\u001b[36mGET /static/assets/js/main.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 17:04:41] \"\u001b[36mGET /static/assets/css/fontawesome-all.min.css HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 17:04:41] \"\u001b[36mGET /static/images/elephants-background.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 17:04:41] \"\u001b[36mGET /static/images/overlay.png HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 17:04:41] \"\u001b[36mGET /static/assets/webfonts/fa-regular-400.woff2 HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 17:04:41] \"\u001b[36mGET /static/assets/webfonts/fa-solid-900.woff2 HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "Logging info"}
+{"message": "Logging warning"}
+{"message": " * Running on http://localhost:8080/ (Press CTRL+C to quit)"}
+{"message": " * Restarting with stat"}
+{"message": "Logging info"}
+{"message": "Logging warning"}
+{"message": " * Debugger is active!"}
+{"message": " * Debugger PIN: 629-388-268"}
+{"message": "Logging info"}
+{"message": "Logging warning"}
+{"message": " * Running on http://localhost:8080/ (Press CTRL+C to quit)"}
+{"message": " * Restarting with stat"}
+{"message": "Logging info"}
+{"message": "Logging warning"}
+{"message": " * Debugger is active!"}
+{"message": " * Debugger PIN: 629-388-268"}
+{"message": "127.0.0.1 - - [30/Mar/2022 20:55:26] \"\u001b[36mGET /static/assets/js/browser.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 20:55:26] \"\u001b[36mGET /static/images/SAVING-NATURE-LOGO-WITH-TAG-LINE-e1565707209117.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 20:55:26] \"\u001b[36mGET /static/images/SumatraTiger.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 20:55:26] \"\u001b[36mGET /static/assets/css/main.css HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 20:55:26] \"\u001b[36mGET /static/assets/js/jquery.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 20:55:26] \"\u001b[36mGET /static/images/Sumatra-Crested-Fireback-Pheasant-Lophura-ignita-e1566603146361.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 20:55:26] \"\u001b[36mGET /static/assets/js/util.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 20:55:26] \"\u001b[36mGET /static/assets/js/breakpoints.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 20:55:26] \"\u001b[36mGET /static/assets/js/main.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 20:55:26] \"\u001b[36mGET /static/assets/webfonts/fa-regular-400.woff2 HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 20:55:26] \"\u001b[36mGET /static/assets/css/fontawesome-all.min.css HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 20:55:26] \"\u001b[36mGET /static/images/overlay.png HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 20:55:26] \"\u001b[36mGET /static/assets/webfonts/fa-solid-900.woff2 HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 20:55:26] \"\u001b[36mGET /static/images/elephants-background.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 20:55:26] \"GET / HTTP/1.1\" 200 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 20:55:28] \"\u001b[36mGET /static/assets/css/main.css HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 20:55:28] \"\u001b[36mGET /static/images/Sumatra-Crested-Fireback-Pheasant-Lophura-ignita-e1566603146361.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 20:55:28] \"\u001b[36mGET /static/images/SAVING-NATURE-LOGO-WITH-TAG-LINE-e1565707209117.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 20:55:28] \"\u001b[36mGET /static/images/SumatraTiger.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 20:55:28] \"\u001b[36mGET /static/assets/js/browser.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 20:55:28] \"\u001b[36mGET /static/assets/js/jquery.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 20:55:28] \"\u001b[36mGET /static/assets/js/util.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 20:55:28] \"\u001b[36mGET /static/assets/js/breakpoints.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 20:55:28] \"\u001b[36mGET /static/assets/js/main.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 20:55:28] \"\u001b[36mGET /static/assets/css/fontawesome-all.min.css HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 20:55:28] \"\u001b[36mGET /static/assets/webfonts/fa-regular-400.woff2 HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 20:55:28] \"\u001b[36mGET /static/images/overlay.png HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 20:55:28] \"\u001b[36mGET /static/images/elephants-background.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 20:55:28] \"\u001b[36mGET /static/assets/webfonts/fa-solid-900.woff2 HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 20:55:28] \"GET / HTTP/1.1\" 200 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 20:55:28] \"\u001b[36mGET /static/assets/css/main.css HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 20:55:28] \"\u001b[36mGET /static/images/SAVING-NATURE-LOGO-WITH-TAG-LINE-e1565707209117.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 20:55:28] \"\u001b[36mGET /static/images/SumatraTiger.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 20:55:28] \"\u001b[36mGET /static/images/Sumatra-Crested-Fireback-Pheasant-Lophura-ignita-e1566603146361.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 20:55:28] \"\u001b[36mGET /static/assets/js/jquery.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 20:55:28] \"\u001b[36mGET /static/assets/js/browser.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 20:55:28] \"\u001b[36mGET /static/assets/js/breakpoints.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 20:55:28] \"\u001b[36mGET /static/assets/js/util.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 20:55:28] \"\u001b[36mGET /static/assets/js/main.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 20:55:28] \"\u001b[36mGET /static/assets/css/fontawesome-all.min.css HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 20:55:29] \"\u001b[36mGET /static/images/overlay.png HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 20:55:29] \"\u001b[36mGET /static/images/elephants-background.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 20:55:29] \"\u001b[36mGET /static/assets/webfonts/fa-regular-400.woff2 HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 20:55:29] \"\u001b[36mGET /static/assets/webfonts/fa-solid-900.woff2 HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "Found credentials in shared credentials file: ~/.aws/credentials"}
+{"message": "Metadata write with response [{'ResponseMetadata': {'RequestId': 'U4QHJCIQ8IMSONLMFKQ8VE9QD3VV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Wed, 30 Mar 2022 21:02:22 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': 'U4QHJCIQ8IMSONLMFKQ8VE9QD3VV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': 'LJFHUS69CO3VM4GB0MIGU43HANVV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Wed, 30 Mar 2022 21:02:22 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': 'LJFHUS69CO3VM4GB0MIGU43HANVV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': 'E8KS6GHKVC5GRE0C8KSOMV4J47VV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Wed, 30 Mar 2022 21:02:22 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': 'E8KS6GHKVC5GRE0C8KSOMV4J47VV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': 'SQELRCDIG248LFEB76H6KL27TBVV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Wed, 30 Mar 2022 21:02:22 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': 'SQELRCDIG248LFEB76H6KL27TBVV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': 'K450LN19EE9GRN2N30GGVL6L7VVV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Wed, 30 Mar 2022 21:02:22 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': 'K450LN19EE9GRN2N30GGVL6L7VVV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': '3JV4MN6NL2DPUV7JJN6K3VF9HVVV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Wed, 30 Mar 2022 21:02:22 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': '3JV4MN6NL2DPUV7JJN6K3VF9HVVV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': 'BR7QQPUB9IMC048DV519OMN8MVVV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Wed, 30 Mar 2022 21:02:22 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': 'BR7QQPUB9IMC048DV519OMN8MVVV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': 'DQNRS60IKFORS5KN44M57HELN7VV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Wed, 30 Mar 2022 21:02:22 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': 'DQNRS60IKFORS5KN44M57HELN7VV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': 'GV5N4AIJ81OCQ5COO51J2K1JGVVV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Wed, 30 Mar 2022 21:02:22 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': 'GV5N4AIJ81OCQ5COO51J2K1JGVVV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': 'KOE1E9H0IPMAUOVIEM1QB4FOL7VV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Wed, 30 Mar 2022 21:02:22 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': 'KOE1E9H0IPMAUOVIEM1QB4FOL7VV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': 'I23U4HU6S2UDDNV9DK8MN66IB7VV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Wed, 30 Mar 2022 21:02:22 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': 'I23U4HU6S2UDDNV9DK8MN66IB7VV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': 'M52TV1P4I73TSICQPC8R3VO35FVV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Wed, 30 Mar 2022 21:02:22 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': 'M52TV1P4I73TSICQPC8R3VO35FVV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': 'RF4ISA5HUK3D5AV464P3KVHNMFVV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Wed, 30 Mar 2022 21:02:22 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': 'RF4ISA5HUK3D5AV464P3KVHNMFVV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': 'A0DUKEG3H7CETENI0P8VD2TTTBVV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Wed, 30 Mar 2022 21:02:22 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': 'A0DUKEG3H7CETENI0P8VD2TTTBVV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': 'S67IT7T4PG4D9CO6NV05KEOFRFVV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Wed, 30 Mar 2022 21:02:22 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': 'S67IT7T4PG4D9CO6NV05KEOFRFVV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': '6G7U9AMEP0MOR9K94EIOIR48JBVV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Wed, 30 Mar 2022 21:02:22 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': '6G7U9AMEP0MOR9K94EIOIR48JBVV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': 'MCF8U24QEENPQF49NEHURG50CFVV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Wed, 30 Mar 2022 21:02:22 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': 'MCF8U24QEENPQF49NEHURG50CFVV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': 'TKEVD71R12QP8U6UUKPVTD6P53VV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Wed, 30 Mar 2022 21:02:22 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': 'TKEVD71R12QP8U6UUKPVTD6P53VV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': 'KC9UP0LVSJLGQ5CA2BT5R628GVVV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Wed, 30 Mar 2022 21:02:22 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': 'KC9UP0LVSJLGQ5CA2BT5R628GVVV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': 'B6Q1TPR4DDNU1FEFEKA3F8GR6NVV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Wed, 30 Mar 2022 21:02:22 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': 'B6Q1TPR4DDNU1FEFEKA3F8GR6NVV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': 'M6CUB9OAJT04V5EG4DTPP48KT3VV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Wed, 30 Mar 2022 21:02:22 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': 'M6CUB9OAJT04V5EG4DTPP48KT3VV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': '1AKGNU3UV081F08J11ASH6AQ4VVV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Wed, 30 Mar 2022 21:02:22 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': '1AKGNU3UV081F08J11ASH6AQ4VVV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}]"}
+{"message": "03190179.mp4 saved locally"}
+{"message": "04170228.mp4 saved locally"}
+{"message": "02260241.mp4 saved locally"}
+{"message": "06300008.mp4 saved locally"}
+{"message": "04120354.mp4 saved locally"}
+{"message": "01230091.mp4 saved locally"}
+{"message": "03210274.mp4 saved locally"}
+{"message": "03210275.mp4 saved locally"}
+{"message": "07150006 Tra_kan.mp4 saved locally"}
+{"message": "05050404.mp4 saved locally"}
+{"message": "08190025.mp4 saved locally"}
+{"message": "10100043.mp4 saved locally"}
+{"message": "02200286 Cat_Tem.mp4 saved locally"}
+{"message": "01290249 Cat_Tem.mp4 saved locally"}
+{"message": "04120432.mp4 saved locally"}
+{"message": "05300467.mp4 saved locally"}
+{"message": "03160316.mp4 saved locally"}
+{"message": "02250136.mp4 saved locally"}
+{"message": "03080218.mp4 saved locally"}
+{"message": "02020204 Lep_spp.mp4 saved locally"}
+{"message": "04100208.mp4 saved locally"}
+{"message": "04100209.mp4 saved locally"}
+{"message": "Attempting to send ./uploads/03190179.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/04170228.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/02260241.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/06300008.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/04120354.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/01230091.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/03210274.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/03210275.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/07150006 Tra_kan.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/05050404.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/08190025.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/10100043.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/02200286 Cat_Tem.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/01290249 Cat_Tem.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/04120432.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/05300467.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/03160316.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/02250136.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/03080218.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/02020204 Lep_spp.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/04100208.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/04100209.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Uploading ./uploads/03190179.mp4 to dropbox"}
+{"message": "Request to files/upload_session/start"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/finish"}
+{"message": "./uploads/03190179.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/04170228.mp4 to dropbox"}
+{"message": "Request to files/upload_session/start"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/finish"}
+{"message": "./uploads/04170228.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/02260241.mp4 to dropbox"}
+{"message": "Request to files/upload_session/start"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/finish"}
+{"message": "./uploads/02260241.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/06300008.mp4 to dropbox"}
+{"message": "Request to files/upload_session/start"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/finish"}
+{"message": "./uploads/06300008.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/04120354.mp4 to dropbox"}
+{"message": "Request to files/upload_session/start"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/finish"}
+{"message": "./uploads/04120354.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/01230091.mp4 to dropbox"}
+{"message": "Request to files/upload_session/start"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/finish"}
+{"message": "./uploads/01230091.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/03210274.mp4 to dropbox"}
+{"message": "Request to files/upload_session/start"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/finish"}
+{"message": "./uploads/03210274.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/03210275.mp4 to dropbox"}
+{"message": "Request to files/upload_session/start"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/finish"}
+{"message": "./uploads/03210275.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/07150006 Tra_kan.mp4 to dropbox"}
+{"message": "Request to files/upload_session/start"}
+{"message": "Request to files/upload_session/finish"}
+{"message": "./uploads/07150006 Tra_kan.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/05050404.mp4 to dropbox"}
+{"message": "Request to files/upload_session/start"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/finish"}
+{"message": "./uploads/05050404.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/08190025.mp4 to dropbox"}
+{"message": "Request to files/upload_session/start"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/finish"}
+{"message": "./uploads/08190025.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/10100043.mp4 to dropbox"}
+{"message": "Request to files/upload_session/start"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/finish"}
+{"message": "./uploads/10100043.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/02200286 Cat_Tem.mp4 to dropbox"}
+{"message": "Request to files/upload"}
+{"message": "./uploads/02200286 Cat_Tem.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/01290249 Cat_Tem.mp4 to dropbox"}
+{"message": "Request to files/upload_session/start"}
+{"message": "Request to files/upload_session/finish"}
+{"message": "./uploads/01290249 Cat_Tem.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/04120432.mp4 to dropbox"}
+{"message": "Request to files/upload_session/start"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/finish"}
+{"message": "./uploads/04120432.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/05300467.mp4 to dropbox"}
+{"message": "Request to files/upload_session/start"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/finish"}
+{"message": "./uploads/05300467.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/03160316.mp4 to dropbox"}
+{"message": "Request to files/upload_session/start"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/finish"}
+{"message": "./uploads/03160316.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/02250136.mp4 to dropbox"}
+{"message": "Request to files/upload_session/start"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/finish"}
+{"message": "./uploads/02250136.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/03080218.mp4 to dropbox"}
+{"message": "Request to files/upload_session/start"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/finish"}
+{"message": "./uploads/03080218.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/02020204 Lep_spp.mp4 to dropbox"}
+{"message": "Request to files/upload_session/start"}
+{"message": "Request to files/upload_session/finish"}
+{"message": "./uploads/02020204 Lep_spp.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/04100208.mp4 to dropbox"}
+{"message": "Request to files/upload_session/start"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/finish"}
+{"message": "./uploads/04100208.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/04100209.mp4 to dropbox"}
+{"message": "Request to files/upload_session/start"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/finish"}
+{"message": "./uploads/04100209.mp4 deleted from local server"}
+{"message": "127.0.0.1 - - [30/Mar/2022 21:03:44] \"POST / HTTP/1.1\" 200 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 21:04:08] \"\u001b[36mGET /static/assets/css/main.css HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 21:04:08] \"\u001b[36mGET /static/images/SAVING-NATURE-LOGO-WITH-TAG-LINE-e1565707209117.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 21:04:08] \"\u001b[36mGET /static/assets/js/browser.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 21:04:08] \"\u001b[36mGET /static/assets/js/util.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 21:04:08] \"\u001b[36mGET /static/assets/js/main.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 21:04:08] \"\u001b[36mGET /static/assets/js/breakpoints.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 21:04:08] \"\u001b[36mGET /static/images/SumatraTiger.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 21:04:08] \"\u001b[36mGET /static/images/Sumatra-Crested-Fireback-Pheasant-Lophura-ignita-e1566603146361.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 21:04:08] \"\u001b[36mGET /static/assets/js/jquery.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 21:04:08] \"\u001b[36mGET /static/assets/webfonts/fa-regular-400.woff2 HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 21:04:08] \"\u001b[36mGET /static/assets/css/fontawesome-all.min.css HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 21:04:08] \"\u001b[36mGET /static/images/overlay.png HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 21:04:08] \"\u001b[36mGET /static/assets/webfonts/fa-solid-900.woff2 HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 21:04:08] \"\u001b[36mGET /static/images/elephants-background.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 21:04:08] \"GET / HTTP/1.1\" 200 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 21:04:08] \"\u001b[36mGET /static/assets/css/main.css HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 21:04:08] \"\u001b[36mGET /static/images/SAVING-NATURE-LOGO-WITH-TAG-LINE-e1565707209117.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 21:04:08] \"\u001b[36mGET /static/images/SumatraTiger.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 21:04:08] \"\u001b[36mGET /static/images/Sumatra-Crested-Fireback-Pheasant-Lophura-ignita-e1566603146361.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 21:04:08] \"\u001b[36mGET /static/assets/js/jquery.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 21:04:08] \"\u001b[36mGET /static/assets/js/browser.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 21:04:08] \"\u001b[36mGET /static/assets/js/breakpoints.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 21:04:08] \"\u001b[36mGET /static/assets/js/util.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 21:04:08] \"\u001b[36mGET /static/assets/js/main.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 21:04:08] \"\u001b[36mGET /static/assets/css/fontawesome-all.min.css HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 21:04:08] \"\u001b[36mGET /static/images/overlay.png HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 21:04:08] \"\u001b[36mGET /static/images/elephants-background.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 21:04:08] \"\u001b[36mGET /static/assets/webfonts/fa-regular-400.woff2 HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [30/Mar/2022 21:04:08] \"\u001b[36mGET /static/assets/webfonts/fa-solid-900.woff2 HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "Logging info"}
+{"message": "Logging warning"}
+{"message": " * Running on http://localhost:8080/ (Press CTRL+C to quit)"}
+{"message": " * Restarting with stat"}
+{"message": "Logging info"}
+{"message": "Logging warning"}
+{"message": " * Debugger is active!"}
+{"message": " * Debugger PIN: 629-388-268"}
+{"message": "Logging info"}
+{"message": "Logging warning"}
+{"message": " * Running on http://localhost:8080/ (Press CTRL+C to quit)"}
+{"message": " * Restarting with stat"}
+{"message": "Logging info"}
+{"message": "Logging warning"}
+{"message": " * Debugger is active!"}
+{"message": " * Debugger PIN: 629-388-268"}
+{"message": "127.0.0.1 - - [31/Mar/2022 03:33:15] \"\u001b[36mGET /static/images/SAVING-NATURE-LOGO-WITH-TAG-LINE-e1565707209117.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 03:33:15] \"\u001b[36mGET /static/assets/js/browser.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 03:33:15] \"\u001b[36mGET /static/assets/css/main.css HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 03:33:15] \"\u001b[36mGET /static/assets/js/breakpoints.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 03:33:15] \"\u001b[36mGET /static/images/Sumatra-Crested-Fireback-Pheasant-Lophura-ignita-e1566603146361.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 03:33:15] \"\u001b[36mGET /static/assets/js/util.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 03:33:15] \"\u001b[36mGET /static/images/SumatraTiger.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 03:33:15] \"\u001b[36mGET /static/assets/js/main.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 03:33:15] \"\u001b[36mGET /static/assets/js/jquery.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 03:33:15] \"\u001b[36mGET /static/assets/webfonts/fa-regular-400.woff2 HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 03:33:15] \"\u001b[36mGET /static/assets/css/fontawesome-all.min.css HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 03:33:15] \"\u001b[36mGET /static/images/overlay.png HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 03:33:15] \"\u001b[36mGET /static/assets/webfonts/fa-solid-900.woff2 HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 03:33:15] \"\u001b[36mGET /static/images/elephants-background.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 03:33:15] \"GET / HTTP/1.1\" 200 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 03:33:15] \"\u001b[36mGET /static/assets/js/jquery.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 03:33:15] \"\u001b[36mGET /static/assets/js/breakpoints.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 03:33:15] \"\u001b[36mGET /static/assets/js/browser.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 03:33:15] \"\u001b[36mGET /static/assets/js/util.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 03:33:15] \"\u001b[36mGET /static/assets/js/main.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 03:33:15] \"\u001b[36mGET /static/assets/webfonts/fa-brands-400.woff2 HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "Logging info"}
+{"message": "Logging warning"}
+{"message": " * Running on http://localhost:8080/ (Press CTRL+C to quit)"}
+{"message": " * Restarting with stat"}
+{"message": "Logging info"}
+{"message": "Logging warning"}
+{"message": " * Debugger is active!"}
+{"message": " * Debugger PIN: 629-388-268"}
+{"message": "127.0.0.1 - - [31/Mar/2022 03:41:18] \"GET /static/images/SumatraTiger.jpeg HTTP/1.1\" 200 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 03:41:18] \"GET /static/images/SAVING-NATURE-LOGO-WITH-TAG-LINE-e1565707209117.jpeg HTTP/1.1\" 200 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 03:41:18] \"GET /static/assets/css/fontawesome-all.min.css HTTP/1.1\" 200 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 03:41:18] \"GET /static/assets/css/main.css HTTP/1.1\" 200 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 03:41:18] \"GET /static/images/Sumatra-Crested-Fireback-Pheasant-Lophura-ignita-e1566603146361.jpeg HTTP/1.1\" 200 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 03:41:18] \"GET /static/assets/webfonts/fa-regular-400.woff2 HTTP/1.1\" 200 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 03:41:18] \"GET /static/assets/webfonts/fa-solid-900.woff2 HTTP/1.1\" 200 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 03:41:18] \"GET /static/images/overlay.png HTTP/1.1\" 200 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 03:41:18] \"GET /static/images/elephants-background.jpeg HTTP/1.1\" 200 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 03:41:18] \"GET / HTTP/1.1\" 200 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 03:41:18] \"\u001b[36mGET /static/assets/css/main.css HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 03:41:18] \"\u001b[36mGET /static/images/SAVING-NATURE-LOGO-WITH-TAG-LINE-e1565707209117.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 03:41:18] \"\u001b[36mGET /static/images/SumatraTiger.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 03:41:18] \"\u001b[36mGET /static/images/Sumatra-Crested-Fireback-Pheasant-Lophura-ignita-e1566603146361.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 03:41:18] \"\u001b[36mGET /static/assets/js/browser.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 03:41:18] \"\u001b[36mGET /static/assets/js/util.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 03:41:18] \"\u001b[36mGET /static/assets/js/main.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 03:41:18] \"\u001b[36mGET /static/assets/js/breakpoints.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 03:41:18] \"\u001b[36mGET /static/assets/js/jquery.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 03:41:18] \"\u001b[36mGET /static/assets/css/fontawesome-all.min.css HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 03:41:18] \"\u001b[36mGET /static/images/overlay.png HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 03:41:18] \"\u001b[36mGET /static/images/elephants-background.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 03:41:18] \"\u001b[36mGET /static/assets/webfonts/fa-regular-400.woff2 HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 03:41:18] \"\u001b[36mGET /static/assets/webfonts/fa-solid-900.woff2 HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 03:45:17] \"\u001b[31m\u001b[1mPOST / HTTP/1.1\u001b[0m\" 400 -"}
+{"message": "Found credentials in shared credentials file: ~/.aws/credentials"}
+{"message": "Metadata write with response [{'ResponseMetadata': {'RequestId': 'JT1D2PUPU8G8GSL70QQ04EFVNNVV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Thu, 31 Mar 2022 03:55:00 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': 'JT1D2PUPU8G8GSL70QQ04EFVNNVV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': 'IHV4LUP1I5L18SQP2K48P0A58NVV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Thu, 31 Mar 2022 03:55:00 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': 'IHV4LUP1I5L18SQP2K48P0A58NVV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': 'H8J50NE8DOHDSPL0IL7S06JQRJVV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Thu, 31 Mar 2022 03:55:00 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': 'H8J50NE8DOHDSPL0IL7S06JQRJVV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': '1KB8CAMHOQSS03H8I1UA06NI2VVV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Thu, 31 Mar 2022 03:55:00 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': '1KB8CAMHOQSS03H8I1UA06NI2VVV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': 'K1VHM5CRF2KBJQFUJGVHFFC01JVV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Thu, 31 Mar 2022 03:55:00 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': 'K1VHM5CRF2KBJQFUJGVHFFC01JVV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': 'OKB9N2MMDPT9EFSFMGEQK83ARRVV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Thu, 31 Mar 2022 03:55:00 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': 'OKB9N2MMDPT9EFSFMGEQK83ARRVV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': 'IE2VSJMPR5FQLJ6E6A4V9U1HQ3VV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Thu, 31 Mar 2022 03:55:00 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': 'IE2VSJMPR5FQLJ6E6A4V9U1HQ3VV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': '1669J37NT5DHJF9260B6FRQR2NVV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Thu, 31 Mar 2022 03:55:00 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': '1669J37NT5DHJF9260B6FRQR2NVV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': '6RSEE84CLHROQ6DGI5783NS4HJVV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Thu, 31 Mar 2022 03:55:00 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': '6RSEE84CLHROQ6DGI5783NS4HJVV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': 'FH7D1U1H1VAI8S8U5541RMTICJVV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Thu, 31 Mar 2022 03:55:00 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': 'FH7D1U1H1VAI8S8U5541RMTICJVV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': 'PBOLR7K2IJ5HVUO5N2N4KTE6LNVV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Thu, 31 Mar 2022 03:55:00 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': 'PBOLR7K2IJ5HVUO5N2N4KTE6LNVV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': 'NILBE53M63VTL4RFPK7N1LOM43VV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Thu, 31 Mar 2022 03:55:00 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': 'NILBE53M63VTL4RFPK7N1LOM43VV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': '8J20JC9BOJCC6GMOJO2BU7ORHFVV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Thu, 31 Mar 2022 03:55:00 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': '8J20JC9BOJCC6GMOJO2BU7ORHFVV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': 'NTKE3T59CJQMPLFQE6IGE8I21VVV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Thu, 31 Mar 2022 03:55:00 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': 'NTKE3T59CJQMPLFQE6IGE8I21VVV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': 'J3CNSGP4126I1VQP7VTSP2HPEBVV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Thu, 31 Mar 2022 03:55:00 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': 'J3CNSGP4126I1VQP7VTSP2HPEBVV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': 'K5C50QS7DP5VIA31EG4RA3U31RVV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Thu, 31 Mar 2022 03:55:00 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': 'K5C50QS7DP5VIA31EG4RA3U31RVV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': 'U4LGSOFNR98B48C0LS7A5LJLMNVV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Thu, 31 Mar 2022 03:55:00 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': 'U4LGSOFNR98B48C0LS7A5LJLMNVV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': 'ILVL8BETMI0G6HKLEO4Q608FU3VV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Thu, 31 Mar 2022 03:55:00 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': 'ILVL8BETMI0G6HKLEO4Q608FU3VV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': 'NKF3P8HB89FATKQ90QSLQ0O6MJVV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Thu, 31 Mar 2022 03:55:00 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': 'NKF3P8HB89FATKQ90QSLQ0O6MJVV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': 'QA1IGC0PGD68P6DHVVSAORTBDNVV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Thu, 31 Mar 2022 03:55:00 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': 'QA1IGC0PGD68P6DHVVSAORTBDNVV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': '9PDQKALQMKRS0MHC8302OC793RVV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Thu, 31 Mar 2022 03:55:00 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': '9PDQKALQMKRS0MHC8302OC793RVV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}, {'ResponseMetadata': {'RequestId': 'AAG7OB7LDSC2AQIP80BKGV035RVV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Thu, 31 Mar 2022 03:55:00 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': 'AAG7OB7LDSC2AQIP80BKGV035RVV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}]"}
+{"message": "04100209.mp4 saved locally"}
+{"message": "04100208.mp4 saved locally"}
+{"message": "02020204 Lep_spp.mp4 saved locally"}
+{"message": "03080218.mp4 saved locally"}
+{"message": "02250136.mp4 saved locally"}
+{"message": "03160316.mp4 saved locally"}
+{"message": "04120432.mp4 saved locally"}
+{"message": "05300467.mp4 saved locally"}
+{"message": "02200286 Cat_Tem.mp4 saved locally"}
+{"message": "01290249 Cat_Tem.mp4 saved locally"}
+{"message": "08190025.mp4 saved locally"}
+{"message": "10100043.mp4 saved locally"}
+{"message": "07150006 Tra_kan.mp4 saved locally"}
+{"message": "05050404.mp4 saved locally"}
+{"message": "03210274.mp4 saved locally"}
+{"message": "03210275.mp4 saved locally"}
+{"message": "04120354.mp4 saved locally"}
+{"message": "01230091.mp4 saved locally"}
+{"message": "02260241.mp4 saved locally"}
+{"message": "06300008.mp4 saved locally"}
+{"message": "03190179.mp4 saved locally"}
+{"message": "04170228.mp4 saved locally"}
+{"message": "Attempting to send ./uploads/04100209.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/04100208.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/02020204 Lep_spp.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/03080218.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/02250136.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/03160316.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/04120432.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/05300467.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/02200286 Cat_Tem.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/01290249 Cat_Tem.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/08190025.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/10100043.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/07150006 Tra_kan.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/05050404.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/03210274.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/03210275.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/04120354.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/01230091.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/02260241.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/06300008.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/03190179.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Attempting to send ./uploads/04170228.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Uploading ./uploads/04100209.mp4 to dropbox"}
+{"message": "Request to files/upload_session/start"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/finish"}
+{"message": "./uploads/04100209.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/04100208.mp4 to dropbox"}
+{"message": "Request to files/upload_session/start"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/finish"}
+{"message": "./uploads/04100208.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/02020204 Lep_spp.mp4 to dropbox"}
+{"message": "Request to files/upload_session/start"}
+{"message": "Request to files/upload_session/finish"}
+{"message": "./uploads/02020204 Lep_spp.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/03080218.mp4 to dropbox"}
+{"message": "Request to files/upload_session/start"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/finish"}
+{"message": "./uploads/03080218.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/02250136.mp4 to dropbox"}
+{"message": "Request to files/upload_session/start"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/finish"}
+{"message": "./uploads/02250136.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/03160316.mp4 to dropbox"}
+{"message": "Request to files/upload_session/start"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/finish"}
+{"message": "./uploads/03160316.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/04120432.mp4 to dropbox"}
+{"message": "Request to files/upload_session/start"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/finish"}
+{"message": "./uploads/04120432.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/05300467.mp4 to dropbox"}
+{"message": "Request to files/upload_session/start"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/finish"}
+{"message": "./uploads/05300467.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/02200286 Cat_Tem.mp4 to dropbox"}
+{"message": "Request to files/upload"}
+{"message": "./uploads/02200286 Cat_Tem.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/01290249 Cat_Tem.mp4 to dropbox"}
+{"message": "Request to files/upload_session/start"}
+{"message": "Request to files/upload_session/finish"}
+{"message": "./uploads/01290249 Cat_Tem.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/08190025.mp4 to dropbox"}
+{"message": "Request to files/upload_session/start"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/finish"}
+{"message": "./uploads/08190025.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/10100043.mp4 to dropbox"}
+{"message": "Request to files/upload_session/start"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/finish"}
+{"message": "./uploads/10100043.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/07150006 Tra_kan.mp4 to dropbox"}
+{"message": "Request to files/upload_session/start"}
+{"message": "Request to files/upload_session/finish"}
+{"message": "./uploads/07150006 Tra_kan.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/05050404.mp4 to dropbox"}
+{"message": "Request to files/upload_session/start"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/finish"}
+{"message": "./uploads/05050404.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/03210274.mp4 to dropbox"}
+{"message": "Request to files/upload_session/start"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/finish"}
+{"message": "./uploads/03210274.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/03210275.mp4 to dropbox"}
+{"message": "Request to files/upload_session/start"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/finish"}
+{"message": "./uploads/03210275.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/04120354.mp4 to dropbox"}
+{"message": "Request to files/upload_session/start"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/finish"}
+{"message": "./uploads/04120354.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/01230091.mp4 to dropbox"}
+{"message": "Request to files/upload_session/start"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/finish"}
+{"message": "./uploads/01230091.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/02260241.mp4 to dropbox"}
+{"message": "Request to files/upload_session/start"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/finish"}
+{"message": "./uploads/02260241.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/06300008.mp4 to dropbox"}
+{"message": "Request to files/upload_session/start"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/finish"}
+{"message": "./uploads/06300008.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/03190179.mp4 to dropbox"}
+{"message": "Request to files/upload_session/start"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/finish"}
+{"message": "./uploads/03190179.mp4 deleted from local server"}
+{"message": "Uploading ./uploads/04170228.mp4 to dropbox"}
+{"message": "Request to files/upload_session/start"}
+{"message": "Request to files/upload_session/append_v2"}
+{"message": "Request to files/upload_session/finish"}
+{"message": "./uploads/04170228.mp4 deleted from local server"}
+{"message": "127.0.0.1 - - [31/Mar/2022 03:56:10] \"POST / HTTP/1.1\" 200 -"}
+{"message": "Logging info"}
+{"message": "Logging warning"}
+{"message": " * Running on http://localhost:8080/ (Press CTRL+C to quit)"}
+{"message": " * Restarting with stat"}
+{"message": "Logging info"}
+{"message": "Logging warning"}
+{"message": " * Debugger is active!"}
+{"message": " * Debugger PIN: 629-388-268"}
+{"message": "127.0.0.1 - - [31/Mar/2022 16:15:39] \"\u001b[36mGET /static/images/SAVING-NATURE-LOGO-WITH-TAG-LINE-e1565707209117.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 16:15:39] \"\u001b[36mGET /static/assets/css/main.css HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 16:15:39] \"\u001b[36mGET /static/images/SumatraTiger.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 16:15:39] \"\u001b[36mGET /static/images/Sumatra-Crested-Fireback-Pheasant-Lophura-ignita-e1566603146361.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 16:15:39] \"\u001b[36mGET /static/assets/webfonts/fa-regular-400.woff2 HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 16:15:39] \"\u001b[36mGET /static/assets/css/fontawesome-all.min.css HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 16:15:39] \"\u001b[36mGET /static/images/overlay.png HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 16:15:39] \"\u001b[36mGET /static/assets/webfonts/fa-solid-900.woff2 HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 16:15:39] \"\u001b[36mGET /static/images/elephants-background.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 16:15:39] \"GET / HTTP/1.1\" 200 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 16:15:39] \"\u001b[36mGET /static/assets/js/breakpoints.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 16:15:39] \"\u001b[36mGET /static/assets/js/util.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 16:15:39] \"\u001b[36mGET /static/assets/js/browser.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 16:15:39] \"\u001b[36mGET /static/assets/js/main.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 16:15:39] \"\u001b[36mGET /static/assets/js/jquery.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 16:15:39] \"\u001b[36mGET /static/assets/webfonts/fa-brands-400.woff2 HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 16:15:42] \"\u001b[36mGET /static/assets/css/main.css HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 16:15:42] \"\u001b[36mGET /static/images/SAVING-NATURE-LOGO-WITH-TAG-LINE-e1565707209117.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 16:15:42] \"\u001b[36mGET /static/images/SumatraTiger.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 16:15:42] \"\u001b[36mGET /static/assets/css/fontawesome-all.min.css HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 16:15:42] \"\u001b[36mGET /static/images/Sumatra-Crested-Fireback-Pheasant-Lophura-ignita-e1566603146361.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 16:15:42] \"\u001b[36mGET /static/assets/webfonts/fa-regular-400.woff2 HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 16:15:42] \"\u001b[36mGET /static/images/overlay.png HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 16:15:42] \"\u001b[36mGET /static/assets/webfonts/fa-solid-900.woff2 HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 16:15:42] \"\u001b[36mGET /static/images/elephants-background.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 16:15:43] \"GET / HTTP/1.1\" 200 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 16:15:43] \"\u001b[36mGET /static/assets/css/main.css HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 16:15:43] \"\u001b[36mGET /static/images/SAVING-NATURE-LOGO-WITH-TAG-LINE-e1565707209117.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 16:15:43] \"\u001b[36mGET /static/images/SumatraTiger.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 16:15:43] \"\u001b[36mGET /static/images/Sumatra-Crested-Fireback-Pheasant-Lophura-ignita-e1566603146361.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 16:15:43] \"\u001b[36mGET /static/assets/js/browser.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 16:15:43] \"\u001b[36mGET /static/assets/js/jquery.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 16:15:43] \"\u001b[36mGET /static/assets/js/breakpoints.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 16:15:43] \"\u001b[36mGET /static/assets/js/util.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 16:15:43] \"\u001b[36mGET /static/assets/js/main.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 16:15:43] \"\u001b[36mGET /static/assets/css/fontawesome-all.min.css HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 16:15:43] \"\u001b[36mGET /static/images/overlay.png HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 16:15:43] \"\u001b[36mGET /static/images/elephants-background.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 16:15:43] \"\u001b[36mGET /static/assets/webfonts/fa-regular-400.woff2 HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 16:15:43] \"\u001b[36mGET /static/assets/webfonts/fa-solid-900.woff2 HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [31/Mar/2022 16:23:07] \"\u001b[31m\u001b[1mPOST / HTTP/1.1\u001b[0m\" 400 -"}
+{"message": "Logging info"}
+{"message": "Logging warning"}
+{"message": " * Running on http://localhost:8080/ (Press CTRL+C to quit)"}
+{"message": " * Restarting with stat"}
+{"message": "Logging info"}
+{"message": "Logging warning"}
+{"message": " * Debugger is active!"}
+{"message": " * Debugger PIN: 130-615-565"}
+{"message": "127.0.0.1 - - [04/Apr/2022 17:59:09] \"GET / HTTP/1.1\" 200 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 17:59:09] \"GET /static/assets/css/main.css HTTP/1.1\" 200 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 17:59:09] \"GET /static/images/SumatraTiger.jpeg HTTP/1.1\" 200 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 17:59:09] \"GET /static/assets/js/browser.min.js HTTP/1.1\" 200 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 17:59:09] \"GET /static/assets/js/breakpoints.min.js HTTP/1.1\" 200 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 17:59:09] \"GET /static/assets/js/util.js HTTP/1.1\" 200 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 17:59:09] \"\u001b[36mGET /static/images/SAVING-NATURE-LOGO-WITH-TAG-LINE-e1565707209117.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 17:59:09] \"\u001b[36mGET /static/assets/js/main.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 17:59:09] \"\u001b[36mGET /static/images/Sumatra-Crested-Fireback-Pheasant-Lophura-ignita-e1566603146361.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 17:59:09] \"\u001b[36mGET /static/assets/js/jquery.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 17:59:09] \"\u001b[36mGET /static/assets/css/fontawesome-all.min.css HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 17:59:09] \"\u001b[36mGET /static/images/elephants-background.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 17:59:09] \"GET /static/images/overlay.png HTTP/1.1\" 200 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 17:59:09] \"GET /static/assets/webfonts/fa-regular-400.woff2 HTTP/1.1\" 200 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 17:59:09] \"\u001b[36mGET /static/assets/webfonts/fa-solid-900.woff2 HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "Logging info"}
+{"message": "Logging warning"}
+{"message": " * Running on http://localhost:8080/ (Press CTRL+C to quit)"}
+{"message": " * Restarting with stat"}
+{"message": "Logging info"}
+{"message": "Logging warning"}
+{"message": " * Debugger is active!"}
+{"message": " * Debugger PIN: 130-615-565"}
+{"message": "127.0.0.1 - - [04/Apr/2022 18:01:06] \"\u001b[36mGET /static/assets/css/main.css HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 18:01:06] \"\u001b[36mGET /static/images/SumatraTiger.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 18:01:06] \"\u001b[36mGET /static/assets/js/browser.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 18:01:06] \"\u001b[36mGET /static/images/SAVING-NATURE-LOGO-WITH-TAG-LINE-e1565707209117.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 18:01:06] \"\u001b[36mGET /static/assets/js/breakpoints.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 18:01:06] \"\u001b[36mGET /static/assets/js/util.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 18:01:06] \"\u001b[36mGET /static/assets/js/jquery.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 18:01:06] \"\u001b[36mGET /static/assets/js/main.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 18:01:06] \"\u001b[36mGET /static/assets/css/fontawesome-all.min.css HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 18:01:06] \"\u001b[36mGET /static/images/Sumatra-Crested-Fireback-Pheasant-Lophura-ignita-e1566603146361.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 18:01:06] \"\u001b[36mGET /static/images/overlay.png HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 18:01:06] \"\u001b[36mGET /static/assets/webfonts/fa-solid-900.woff2 HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 18:01:06] \"\u001b[36mGET /static/assets/webfonts/fa-regular-400.woff2 HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 18:01:06] \"\u001b[36mGET /static/images/elephants-background.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 18:01:06] \"GET / HTTP/1.1\" 200 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 18:01:06] \"\u001b[36mGET /static/assets/css/main.css HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 18:01:06] \"\u001b[36mGET /static/images/SAVING-NATURE-LOGO-WITH-TAG-LINE-e1565707209117.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 18:01:06] \"\u001b[36mGET /static/images/SumatraTiger.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 18:01:06] \"\u001b[36mGET /static/images/Sumatra-Crested-Fireback-Pheasant-Lophura-ignita-e1566603146361.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 18:01:06] \"\u001b[36mGET /static/assets/js/jquery.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 18:01:06] \"\u001b[36mGET /static/assets/js/browser.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 18:01:06] \"\u001b[36mGET /static/assets/js/breakpoints.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 18:01:06] \"\u001b[36mGET /static/assets/js/util.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 18:01:06] \"\u001b[36mGET /static/assets/js/main.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 18:01:06] \"\u001b[36mGET /static/assets/css/fontawesome-all.min.css HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 18:01:06] \"\u001b[36mGET /static/images/overlay.png HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 18:01:06] \"\u001b[36mGET /static/images/elephants-background.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 18:01:06] \"\u001b[36mGET /static/assets/webfonts/fa-regular-400.woff2 HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 18:01:07] \"\u001b[36mGET /static/assets/webfonts/fa-solid-900.woff2 HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 18:01:36] \"\u001b[31m\u001b[1mPOST / HTTP/1.1\u001b[0m\" 400 -"}
+{"message": "Found credentials in shared credentials file: ~/.aws/credentials"}
+{"message": "Metadata write with response [{'ResponseMetadata': {'RequestId': '0OF51T3N7L3O50G5F2L3D1IC8RVV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Mon, 04 Apr 2022 18:01:51 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '2', 'connection': 'keep-alive', 'x-amzn-requestid': '0OF51T3N7L3O50G5F2L3D1IC8RVV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2745614147'}, 'RetryAttempts': 0}}]"}
+{"message": "02200286 Cat_Tem.mp4 saved locally"}
+{"message": "Attempting to send ./uploads/02200286 Cat_Tem.mp4 to s3"}
+{"message": "<Response [204]>"}
+{"message": "Uploading ./uploads/02200286 Cat_Tem.mp4 to dropbox"}
+{"message": "Request to files/upload"}
+{"message": "./uploads/02200286 Cat_Tem.mp4 deleted from local server"}
+{"message": "127.0.0.1 - - [04/Apr/2022 18:01:56] \"POST / HTTP/1.1\" 200 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 18:01:56] \"\u001b[36mGET /static/assets/css/main.css HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 18:01:56] \"\u001b[36mGET /static/images/SAVING-NATURE-LOGO-WITH-TAG-LINE-e1565707209117.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 18:01:56] \"\u001b[36mGET /static/images/SumatraTiger.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 18:01:56] \"\u001b[36mGET /static/images/Sumatra-Crested-Fireback-Pheasant-Lophura-ignita-e1566603146361.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 18:01:56] \"\u001b[36mGET /static/assets/js/browser.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 18:01:56] \"\u001b[36mGET /static/assets/js/jquery.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 18:01:56] \"\u001b[36mGET /static/assets/js/breakpoints.min.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 18:01:56] \"\u001b[36mGET /static/assets/js/util.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 18:01:56] \"\u001b[36mGET /static/assets/js/main.js HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 18:01:56] \"\u001b[36mGET /static/assets/css/fontawesome-all.min.css HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 18:01:56] \"\u001b[36mGET /static/images/overlay.png HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 18:01:56] \"\u001b[36mGET /static/images/elephants-background.jpeg HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 18:01:56] \"\u001b[36mGET /static/assets/webfonts/fa-regular-400.woff2 HTTP/1.1\u001b[0m\" 304 -"}
+{"message": "127.0.0.1 - - [04/Apr/2022 18:01:56] \"\u001b[36mGET /static/assets/webfonts/fa-solid-900.woff2 HTTP/1.1\u001b[0m\" 304 -"}

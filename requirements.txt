@@ -1,0 +1,7 @@
+flask
+boto3
+pylint
+requests
+Flask-HTTPAuth
+dropbox
+python-json-logger
