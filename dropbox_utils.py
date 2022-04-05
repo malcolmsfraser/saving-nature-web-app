@@ -1,7 +1,7 @@
 import os, argparse, dropbox, time, requests
 
 app_key = "7tr3276zwa55c08"
-app_secret = "5qjuvoyyrck1ds4"
+app_secret = ""
 refresh_token = "riBTtNqltdkAAAAAAAAAARpL7WHrMwrh1IXNuPDhG7I2VWfXyXuEwbZ1n3VB32BH"
 refresh_url = "https://api.dropbox.com/oauth2/token"
 
