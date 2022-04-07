@@ -39,7 +39,7 @@ def verify_password(username, password):
 
 # Web application    
 @app.route('/', methods=['GET','POST'])
-# @auth.login_required
+@auth.login_required
 def upload_file():
     """Main function for the application.
     Accepts a post request for a list of files and metadata as text
