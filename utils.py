@@ -9,7 +9,7 @@ DYNAMODB_TABLE = 'prediction_results_and_metadata'
 
 def fetch_presignedS3_post(filename):
     """Retrieves a presigned post url from the lambda function (bucket configured in lambda)"""
-    response = requests.get(f"https://7kodaj0lib.execute-api.us-east-1.amazonaws.com/default/getPresignedURL?object={filename}")
+    response = requests.get(f"https://##########.execute-api.us-east-1.amazonaws.com/default/getPresignedURL?object={filename}")
     return response.json()
 
 def allowed_file(filename):
